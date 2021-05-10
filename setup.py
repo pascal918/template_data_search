@@ -4,14 +4,14 @@ from setuptools import setup, find_packages
 
 
 install_requires = [
-    "numpy~=1.19.2",
+    "numpy~=1.20.2",
     "tensorflow~=2.4.1",
     "matplotlib~=3.4.1",
     "pandas~=1.2.4", 
     "sklearn",
     "scipy~=1.6.3",
     "seaborn~=0.11.1", 
-    "ipython~=5.7",
+    "ipython~=7.23.0",
     "notebook~=6.3.0",
     "Werkzeug~=1.0.1",
 
